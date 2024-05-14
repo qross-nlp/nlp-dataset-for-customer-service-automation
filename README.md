@@ -1,6 +1,6 @@
-# NLP Dataset for Customer Service Automation
+# NLP Dataset for Customer Service/Sales Automation
 
-This large dataset is designed for training and improving Natural Language Processing (NLP) algorithms for automating customer services in several industries (e.g., Chatbots, Voice AI, IVR, RPA, Call Center Automation, etc).
+This large dataset is designed for training and improving Natural Language Processing (NLP) algorithms for automating customer services/sales in several industries (e.g., Chatbots, Voice AI, IVR, RPA, Call Center Automation, etc).
 
 ## Description
 
@@ -65,3 +65,5 @@ masked.)
 If you cannot find the dataset that you are seeking, please contact nlp-data@qross.me so that we can arrage it.
 
 
+### YouTube: Why automating customer service/sales is so challenging? Here is a solution (by QROSS LTD)
+https://youtu.be/dbPUpls9idI
