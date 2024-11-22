@@ -1,0 +1,52 @@
+"vectorizer.pkl" and "model.pkl" exists.
+
+Your inquiry: 
+	Could you clarify which details are incomplete or missing from my claim?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	What steps can I take to prevent future claims rejections due to missing details or incorrect information?
+
+Your inquiry: 
+	How can I appeal a denial that was issued because pre-authorization wasn’t obtained?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	What steps should I take in appealing the denial based on no pre-authorization obtained?
+
+Your inquiry: 
+	What process should I follow to contest a claim denial caused by a missed filing deadline?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	How can I appeal a claim denial due to missing the filing deadline?
+
+Your inquiry: 
+	If a claim is denied for not having preauthorization, is it still possible to submit an appeal?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	When claims get unexpectedly turned down due to lack of preauthorization, is there still room left open to file an appeal?
+
+Your inquiry: 
+	Can you explain the reason my claim was denied?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	Why was my claim denied?
+
+Your inquiry: 
+	What can I do or provide to help expedite the review of my claim and the reimbursement process?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	Is there anything I need to do or provide that could speed up the claim review process and subsequent reimbursement?
+
+Your inquiry: 
+	How can I submit extra documentation during the appeals process for claims denied on the basis of medical necessity?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	Can you explain how additional evidence can be submitted during the appeals procedure for denials related to medical need?
+
+Your inquiry: 
+	What is the typical timeframe for receiving payment after submitting an international health insurance claim?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	How long does it usually take before receiving payment after filing an overseas health insurance claim?
+
+Your inquiry: 
+	Would providing more documentation assist in having this declined healthcare expense reviewed again?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	Could additional documentation help support reconsideration of this particular declined healthcare expense submission?
+
+Your inquiry: 
+	Could you share the steps for lodging a complaint regarding non-coverage decisions by health insurance companies?
+Chatbot: Your pre-defined answer to the predicted intent: 
+	Please provide instructions for filing a complaint about non-coverage decisions made by Health Insurance Companies.
+

@@ -1,0 +1,13 @@
+/* How to run the sample program for checking the quality of our NLP dataset */
+
+step 1: Install required Python libraries by "pip install scikit-learn numpy"
+
+step 2: Replace "Health_Insurance_Claim" folder with your desired trainging data
+
+step 3: Change a line in the "dummy_chatbot.py"
+Original: data_folder = 'Health_Insurance_Claim/*/*/*.json'
+Changed: data_folder = 'Path to your training data'
+
+step 4: Place your test inquiries in "inquiries" file	
+
+step 5: Run the code by "python dummy_chatbot.py"
